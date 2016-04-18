@@ -1,0 +1,48 @@
+@prefix vag: <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+vag:Teacher a rdfs:Class;
+	rdfs:subClassOf foaf:Person .
+vag:Lecture a rdfs:Class .
+vag:Classroom a rdfs:Class . 
+vag:Lesson a rdfs:Class .
+
+vag:ΚΑΘΗΓΗΤΗΣ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range vag:Teacher.
+
+vag:ΑΙΘΟΥΣΑ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range vag:Classroom.
+
+vag:ΜΑΘΗΜΑ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range vag:Lesson.
+
+vag:ΗΜΕΡΑ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range xsd:string.
+
+vag:ΕΞΑΜΗΝΟ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range xsd:string.
+
+vag:ΩΡΑ%20ΕΝΑΡΞΗΣ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range xsd:time.
+
+vag:ΩΡΑ%20ΛΗΞΗΣ
+	a rdf:Property ;
+	rdfs:domain vag:Lecture;
+	rdfs:range xsd:time.
+
+

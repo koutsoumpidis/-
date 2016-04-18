@@ -1,0 +1,46 @@
+_:bnode0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#Lecture>.
+<http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Προγραμματισμός> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ>.
+<http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Αίθουσα%20ΠΜΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΑΙΘΟΥΣΑ>.
+_:bnode1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#Lecture>.
+<http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Πληροφορική%20στην%20Εκπαίδευση> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ>.
+_:bnode2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#Lecture>.
+<http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Πληροφορική%20και%20Νέα%20Μέσα> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ>.
+_:bnode3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#Lecture>.
+<http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Ηλεκτρονική%20Επιχειρηματικότητα> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ>.
+_:bnode4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#Lecture>.
+<http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Ψυχαγωγικό%20Λογισμικό> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ>.
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΚΑΘΗΓΗΤΗΣ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Μ.%20ΣΤΕΦΑΝΙΔΑΚΗΣ> .
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Προγραμματισμός> .
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΕΝΑΡΞΗΣ> "15:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΛΗΞΗΣ> "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΗΜΕΡΑ> "ΤΡΙΤΗ" .
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Αίθουσα%20ΠΜΣ> .
+_:bnode0 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΕΞΑΜΗΝΟ> "Β" .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΚΑΘΗΓΗΤΗΣ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Π.%20ΒΛΑΜΟΣ> .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Πληροφορική%20στην%20Εκπαίδευση> .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΕΝΑΡΞΗΣ> "15:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΛΗΞΗΣ> "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΗΜΕΡΑ> "ΤΕΤΑΡΤΗ" .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Αίθουσα%20ΠΜΣ> .
+_:bnode1 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΕΞΑΜΗΝΟ> "Β" .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΚΑΘΗΓΗΤΗΣ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Κ.%20ΚΕΡΜΑΝΙΔΟΥ> .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Πληροφορική%20και%20Νέα%20Μέσα> .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΕΝΑΡΞΗΣ> "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΛΗΞΗΣ> "21:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΗΜΕΡΑ> "ΤΕΤΑΡΤΗ" .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Αίθουσα%20ΠΜΣ> .
+_:bnode2 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΕΞΑΜΗΝΟ> "Β" .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΚΑΘΗΓΗΤΗΣ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Α.%20ΠΑΤΕΛΗ> .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Ηλεκτρονική%20Επιχειρηματικότητα> .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΕΝΑΡΞΗΣ> "15:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΛΗΞΗΣ> "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΗΜΕΡΑ> "ΠΕΜΠΤΗ" .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Αίθουσα%20ΠΜΣ> .
+_:bnode3 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΕΞΑΜΗΝΟ> "Β" .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΚΑΘΗΓΗΤΗΣ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Κ.%20ΟΙΚΟΝΟΜΟΥ> .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΜΑΘΗΜΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Ψυχαγωγικό%20Λογισμικό> .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΕΝΑΡΞΗΣ> "15:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΩΡΑ%20ΛΗΞΗΣ> "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΗΜΕΡΑ> "ΠΕΜΠΤΗ" .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/swp/koutsoumpidis/resource/Αίθουσα%20ΠΜΣ> .
+_:bnode4 <http://dilab77.ionio.gr/swp/koutsoumpidis/vocab#ΕΞΑΜΗΝΟ> "Β" .
